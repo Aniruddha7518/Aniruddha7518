@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aniruddha7518
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Data Analysis and Data Science Using Python
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me aniruddhasingh751806@gmail.com
